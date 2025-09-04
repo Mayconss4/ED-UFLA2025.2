@@ -93,7 +93,7 @@ int main (){
 		cout << p1.desempilha() << " ";
 	}
 	
-	cout << endl;
+	return 0;
 }
 
 
