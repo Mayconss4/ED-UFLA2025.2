@@ -1,4 +1,8 @@
-Implemente uma estrutura de dados do tipo fila com as operações básicas de inserção e remoção de elementos. Com a estrutura implementada, faça um programa que insira um conjunto N de números inteiros na fila. Em seguida, leia um número inteiro K e encontre o primeiro número negativo para cada sub fila de tamanho K. Caso não haja números negativos em uma subfila, a palavra "inexistente" deve ser impressa.
+Implemente uma estrutura de dados do tipo fila com as operações básicas de inserção e 
+remoção de elementos. Com a estrutura implementada, faça um programa que insira um 
+conjunto N de números inteiros na fila. Em seguida, leia um número inteiro K 
+e encontre o primeiro número negativo para cada sub fila de tamanho K. Caso não 
+haja números negativos em uma subfila, a palavra "inexistente" deve ser impressa.
 
 Entradas:
 
